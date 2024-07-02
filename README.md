@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @laibakhan-4
+- 💞️ I'm a dedicated computer science undergraduate, passionately exploring a multitude of subjects.
+- 😄 My journey involves diving into coding, algorithms, databases, and more. I actively seek opportunities to expand my skills.
+- ⚡ I'm committed to applying my evolving expertise to practical scenarios and contributing to the ever-evolving tech landscape.
+- 🌱 I am currently in the process of learning JavaScript, as it is a crucial component of the MERN stack (MongoDB, Express.js, React.js, and Node.js).
+- 📫 You can reach me at laibaaamer975@gmail.com
